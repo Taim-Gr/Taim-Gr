@@ -1,4 +1,4 @@
-# 💫 Hi I'm Taim :
+#  Hi I'm Taim !
 ▶ I'm a Software engineer (Currently studying ITE) .<br>▶ Currently Working as Front-End-Developer 💻 .
 
 
@@ -15,10 +15,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Taim-Gr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Taim-Gr&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Taim-Gr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
