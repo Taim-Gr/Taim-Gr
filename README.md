@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Taim :
 ▶ I'm a Software engineer (Currently studying ITE) .<br>▶ Currently Working as Front-End-Developer 💻 .
 
 
