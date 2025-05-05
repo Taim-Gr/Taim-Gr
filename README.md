@@ -1,7 +1,7 @@
 #  Hi I'm Taim !
 ▶ I'm a Software engineer (Currently studying ITE) .<br>▶ Currently Working as Front-End-Developer 💻 .
 <hr/>
-▶ Portfolio Link : <a>https://taimjr.netlify.app/</a> .
+▶ Portfolio Link : <a>https://taimjr.netlify.app</a> 
 
 
 ## 🌐 Socials:
